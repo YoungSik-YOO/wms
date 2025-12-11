@@ -1,6 +1,5 @@
 name: CI-CD(Test, Build, Deploy to EC2)
 
-
 on:
   push:
     branches: ["main"]
